@@ -15,3 +15,12 @@
 > 对以上服务感兴趣的话，可以联系本站的所有人：Kenny  
 > 个人微信QQ同号:1790218202  
 > 业务QQ:2233476212
+
+
+
+# 捐赠开发者
+
+|                            支付宝                            |                             微信                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [AlipayReceiveMoney](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/AlipayReceiveMoney.jpg) | [WeChatReceiveMoney](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/WeChatReceiveMoney.png) |
+
