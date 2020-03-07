@@ -22,5 +22,5 @@
 
 |                            支付宝                            |                             微信                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [AlipayReceiveMoney](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/AlipayReceiveMoney.jpg) | [WeChatReceiveMoney](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/WeChatReceiveMoney.png) |
+| ![image](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/AlipayReceiveMoney.jpg) | ![WeChatReceiveMoney](https://github.com/winstonkenny/winstonkenny.github.io/blob/master/static/img/WeChatReceiveMoney.png) |
 
