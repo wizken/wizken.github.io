@@ -14,7 +14,7 @@
 
 ## 捐赠开发者
 
-|                            支付宝                            |                             微信                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![AlipayReceiveMoney](https://winstonkenny.github.io/static/img/AlipayReceiveMoney.jpg) | ![WeChatReceiveMoney](https://winstonkenny.github.io/static/img/WeChatReceiveMoney.png) |
+|                           支付宝                           |                            微信                            |
+| :--------------------------------------------------------: | :--------------------------------------------------------: |
+| ![AlipayReceiveMoney](./static/img/AlipayReceiveMoney.jpg) | ![WeChatReceiveMoney](./static/img/WeChatReceiveMoney.png) |
 
